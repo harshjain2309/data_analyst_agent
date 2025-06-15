@@ -1,0 +1,12 @@
+streamlit
+langchain
+together
+faiss-cpu
+python-dotenv
+PyMuPDF
+pypdf
+pandas
+matplotlib
+python-docx
+Pillow
+openpyxl
